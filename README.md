@@ -1,5 +1,5 @@
 Homelessness in Dublin analysis
-# 1) There were more homeless adults in Ireland in 2019 compared to both 2020, and 2021 (though, it should be remembered that there are four months missing in 2021)
+1) There were more homeless adults in Ireland in 2019 compared to both 2020, and 2021 (though, it should be remembered that there are four months missing in 2021)
 
 2) The highest number of homeless adults are in the Dublin region, while the second highest (which is significantly lower) is in the South-West Region (Cork and Kerry Counties).
 
